@@ -18,7 +18,7 @@
 ##
 Entusiasta na área da tecnologia da informação. Sempre curiosa e disposta a aprender mais sobre essa área encantadora que, desde pequena, sempre fui apaixonada. 🚀🧡
 
-![Snake animation](https://github.com/ValentinaMorais/ValentinaMorais/blob/output/github-contribuition-grid-snake.svg)
+
 </div><br />
 
 
