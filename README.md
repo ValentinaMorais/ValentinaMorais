@@ -3,8 +3,6 @@
   <img src="ghost-clean-code.png" alt="Ghost lendo código limpo" width="400" />
 </p>
 
-![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaMorais&show_icons=true&theme=radical)
-
 ##
 ### Tecnologias que uso no meu dia 👩🏻‍💻
 <div style= "display: inline_block"><br/>    
