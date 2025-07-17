@@ -1,5 +1,15 @@
 ### Olá, eu sou a Valentina! 🙋🏻
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+a+Valentina!;Desenvolvedora+em+construção+🚧;Bem-vinde+ao+meu+perfil!&center=true&width=380&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/ae9f7833e9f3c9dc57347ac030a61b52f15e9739b5a6c6d3971f9d171f73c2a5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d347a616d4e4b386a794d676176776f682f67697068792e676966" width="200px"/>
+</div>
+
+<p align="center">
   <img src="ghost-clean-code.png" alt="Ghost lendo código limpo" width="400" />
 </p>
 
