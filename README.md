@@ -10,8 +10,6 @@ Gosto de aprender, de compartilhar e de transformar ideias em interfaces bonitas
 
 <p align="center">👩‍💻 Desenvolvedora Fullstack | Apaixonada por tecnologia e café ☕</p>
 
-<p align="center"><i>"Transformando café em código limpo desde sempre."</i> 💚</p>
-
 <br/>
 
 <p align="center">
