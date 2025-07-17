@@ -9,5 +9,6 @@
 
 ![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaMorais&show_icons=true&theme=radical)
 
-![Pacman eating commits](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ValentinaMorais/ValentinaMorais/blob/output/github-contribution-grid-snake.svg)
+
 
