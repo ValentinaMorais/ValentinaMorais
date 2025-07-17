@@ -1,4 +1,6 @@
 ### Olá, eu sou a Valentina! 🙋🏻
+## Sobre mim
+👩‍💻 Desenvolvedora Fullstack | Apaixonada por tecnologia e café ☕
 
 <p align="center">
   <table>
