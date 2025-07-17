@@ -12,7 +12,8 @@
 
 
 
-![Pacman eating commits](https://github.com/ValentinaMorais/ValentinaMorais/blob/output/github-contribution-grid-snake.svg)
+![Pacman eating commits](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
