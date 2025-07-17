@@ -1,11 +1,15 @@
+### Olá, eu sou a Valentina! 🙋🏻
+
 <p align="center">
-  <img src="ghost-clean-code.png" alt="Ghost lendo código limpo" width="400" />
+  <table>
+    <tr>
+      <td><img src="ghost-clean-code.png" alt="Ghost lendo código limpo" width="300" /></td>
+      <td><img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="Pinguins fofos" width="300" /></td>
+    </tr>
+  </table>
 </p>
 
-![Pinguins fofos](https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif)
 
-
-### Olá, eu sou a Valentina! 🙋🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-oliveira-martins-morais-109318254)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moraisvalentina)
