@@ -67,4 +67,4 @@ Gosto de aprender, de compartilhar e de transformar ideias em interfaces bonitas
 
 ---
 
-<p align="center"><i>"Feito com 💚, café e uma pitada de caos controlado."</i></p>
+
