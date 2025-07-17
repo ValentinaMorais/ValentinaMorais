@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/SHWbRGUQB1xBu/giphy.gif" width="200px" alt="Pac-Man animado" />
-</div>
-
 <p align="center">
   <img src="ghost-clean-code.png" alt="Ghost lendo código limpo" width="400" />
 </p>
@@ -12,3 +8,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moraisvalentina)
 
 ![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaMorais&show_icons=true&theme=radical)
+
+![Pacman eating commits](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
