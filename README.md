@@ -12,7 +12,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+a+Valentina!;Desenvolvedora+Fullstack+em+construção;Apaixonada+por+café+e+tecnologia." />
 
 
-![Snake animation](https://github.com/ValentinaMorais/ValentinaMorais/blob/output/github-contribution-grid-snake.svg)
+![Pacman eating commits](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
