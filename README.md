@@ -15,3 +15,4 @@
 ![Snake animation](https://github.com/ValentinaMorais/ValentinaMorais/blob/output/github-contribution-grid-snake.svg)
 
 
+
