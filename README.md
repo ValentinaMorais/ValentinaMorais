@@ -1,5 +1,15 @@
 <h1 align="center">Olá, eu sou a Valentina! 🙋🏻‍♀️</h1>
 
+## 👩🏻‍💻 Sobre mim
+
+Sou desenvolvedora fullstack apaixonada por tecnologia, café e desafios que me tiram da zona de conforto ☕🚀  
+Minha trajetória na área de T.I. começou com experiências sólidas como **Analista de Suporte Técnico**, onde atuei resolvendo problemas complexos, lidando com sistemas internos, bancos de dados e suporte a clientes e times de desenvolvimento.
+
+Essas vivências despertaram ainda mais meu interesse por desenvolvimento, e hoje foco na criação de soluções web modernas — com tecnologias como **React, Node.js, TypeScript e bancos de dados relacionais e não relacionais**.
+
+Gosto de aprender, de compartilhar e de transformar ideias em interfaces bonitas, funcionais e bem pensadas. 💡✨  
+
+
 <p align="center">👩‍💻 Desenvolvedora Fullstack | Apaixonada por tecnologia e café ☕</p>
 
 <p align="center"><i>"Transformando café em código limpo desde sempre."</i> 💚</p>
