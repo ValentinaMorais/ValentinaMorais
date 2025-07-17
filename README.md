@@ -1,6 +1,10 @@
-### Olá, eu sou a Valentina! 🙋🏻
-## Sobre mim
-👩‍💻 Desenvolvedora Fullstack | Apaixonada por tecnologia e café ☕
+<h1 align="center">Olá, eu sou a Valentina! 🙋🏻‍♀️</h1>
+
+<p align="center">👩‍💻 Desenvolvedora Fullstack | Apaixonada por tecnologia e café ☕</p>
+
+<p align="center"><i>"Transformando café em código limpo desde sempre."</i> 💚</p>
+
+<br/>
 
 <p align="center">
   <table>
@@ -11,36 +15,47 @@
   </table>
 </p>
 
+---
+
 ## 🚀 Tecnologias que eu uso
 
+### 🖥️ Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🛢️ Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
 
+## 📊 Estatísticas do GitHub
 
-![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinaMorais&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValentinaMorais&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaMorais&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaMorais&layout=compact&theme=radical)
+---
 
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
+---
 
+## 🤝 Vamos nos conectar?
 
+📬 Me chama no [**LinkedIn**](https://www.linkedin.com/in/valentina-oliveira-martins-morais-109318254)  
+📸 Ou me acompanha no [**Instagram**](https://www.instagram.com/moraisvalentina)
 
+---
 
-
-
-
-![Pacman eating commits](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
+<p align="center"><i>"Feito com 💚, café e uma pitada de caos controlado."</i></p>
