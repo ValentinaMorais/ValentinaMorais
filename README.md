@@ -1,7 +1,9 @@
 <p align="center">
   <img src="ghost-clean-code.png" alt="Ghost lendo código limpo" width="400" />
 </p>
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+![Pinguins fofos](https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif)
+
 
 ### Olá, eu sou a Valentina! 🙋🏻
 
