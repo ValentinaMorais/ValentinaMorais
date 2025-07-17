@@ -11,6 +11,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaMorais&layout=compact&theme=radical)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 
 
