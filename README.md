@@ -66,6 +66,7 @@ Gosto de aprender, compartilhar e transformar ideias em interfaces bonitas, func
 
 ## 🤝 Vamos nos conectar?
 <p align="center">
+  <a href="mailto:valentinam.morais@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/valentina-morais"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/moraisvalentina"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
