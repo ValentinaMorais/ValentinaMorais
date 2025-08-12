@@ -1,0 +1,37 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Atualiza a cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Seções básicas
+          base: header, activity, community, repositories, metadata
+
+          # Estatísticas de linguagens
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+
+          # Conquistas e destaques
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_notable: yes
+
+          # Outros detalhes
+          plugin_contributors: yes
+          plugin_topics: yes
+          plugin_stars: yes
+
+          # Configurações visuais / fuso
+          config_timezone: America/Sao_Paulo
+          config_display: large
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata
