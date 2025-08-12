@@ -7,7 +7,6 @@ Essas vivências despertaram ainda mais meu interesse por desenvolvimento, e hoj
 
 Gosto de aprender, de compartilhar e de transformar ideias em interfaces bonitas, funcionais e bem pensadas. 💡✨  
 
-
 <p align="center">👩‍💻 Desenvolvedora Fullstack | Apaixonada por tecnologia e café ☕</p>
 
 <br/>
@@ -32,11 +31,9 @@ Gosto de aprender, de compartilhar e de transformar ideias em interfaces bonitas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ### 🔧 Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 ### 🛢️ Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -45,8 +42,14 @@ Gosto de aprender, de compartilhar e de transformar ideias em interfaces bonitas
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas métricas do GitHub
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ValentinaMorais/ValentinaMorais/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
+---
+
+## 📈 Estatísticas adicionais
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ValentinaMorais&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaMorais&layout=compact&theme=radical" alt="Top Langs" />
@@ -64,8 +67,3 @@ Gosto de aprender, de compartilhar e de transformar ideias em interfaces bonitas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-morais)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moraisvalentina)
-
-
----
-
-
