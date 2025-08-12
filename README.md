@@ -33,11 +33,7 @@ Busco sempre aprender e compartilhar conhecimento, entregando código limpo, int
 
 ---
 
-## 📊 Minhas métricas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValentinaMorais&show_icons=true&theme=radical)
-
----
 
 ## 📈 Estatísticas adicionais
 
