@@ -35,9 +35,7 @@ Busco sempre aprender e compartilhar conhecimento, entregando código limpo, int
 
 ## 📊 Minhas métricas do GitHub
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ValentinaMorais/ValentinaMorais/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValentinaMorais&show_icons=true&theme=radical)
 
 ---
 
