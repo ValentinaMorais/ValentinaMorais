@@ -16,6 +16,7 @@ Gosto de aprender, compartilhar e transformar ideias em interfaces bonitas, func
     <tr>
       <td align="center"><img src="ghost-clean-code.png" alt="Ghost lendo código limpo" width="250" /></td>
       <td align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZsaGd1b3QxMG1yM2NveXFxeGxhaGFtcnlicjhxZXJqa3NraGtneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" /></td>
+      ![Descrição da imagem] (https://github.com/ValentinaMorais/ValentinaMorais/blob/main/asserts/5b53335c-38dc-46ae-9f2b-415f16ef5a55.png?raw=true)
     </tr>
   </table>
 </p>
