@@ -42,12 +42,7 @@ Gosto de aprender, compartilhar e transformar ideias em interfaces bonitas, func
 
 ---
 
-## 📊 Minhas métricas do GitHub
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ValentinaMorais/ValentinaMorais/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
 
----
 
 ## 📈 Estatísticas adicionais
 <p align="center">
