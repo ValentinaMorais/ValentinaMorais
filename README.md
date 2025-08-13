@@ -21,7 +21,6 @@ Gosto de aprender, compartilhar e transformar ideias em interfaces bonitas, func
 </p>
 
 
-    </tr>
   </table>
 </p>
 
