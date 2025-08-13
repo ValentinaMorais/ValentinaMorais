@@ -15,7 +15,7 @@ Gosto de aprender, compartilhar e transformar ideias em interfaces bonitas, func
   <table>
     <tr>
       <td align="center"><img src="ghost-clean-code.png" alt="Ghost lendo código limpo" width="250" /></td>
-      <td align="center"><img src="https://media.giphy.com/media/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="Pinguins fofos" width="250" /></td>
+      <td align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZsaGd1b3QxMG1yM2NveXFxeGxhaGFtcnlicjhxZXJqa3NraGtneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" /></td>
     </tr>
   </table>
 </p>
